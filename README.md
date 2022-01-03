@@ -1,2 +1,3 @@
-# my-money
-App construido em tutoria. 
+# CalcTron
+App de calculadora simples construido
+com ReactJS.
